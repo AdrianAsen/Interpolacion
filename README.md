@@ -65,12 +65,12 @@ disp('El procedimiento fue correcto');
 
 Para el correcto uso del proyecto se tendrá que abrir a la vez 
 * [Diferencias divididas de Newton](https://github.com/AdrianAsen/Interpolacion/blob/main/FUNCIONES/DDnewton.m)
-* [newton.m](https://github.com/AdrianAsen/Analisis-Numerico/blob/main/Funciones/newton.m)
-* [secante.m](https://github.com/AdrianAsen/Analisis-Numerico/blob/main/Funciones/secante.m)
-* [fposicion.m](https://github.com/AdrianAsen/Analisis-Numerico/blob/main/Funciones/fposicion.m)
-* [aitken.m](https://github.com/AdrianAsen/Analisis-Numerico/blob/main/Funciones/aitken.m)
-* [steffensen.m](https://github.com/AdrianAsen/Analisis-Numerico/blob/main/Funciones/steffensen.m)
-* [muller.m](https://github.com/AdrianAsen/Analisis-Numerico/blob/main/Funciones/muller.m)
+* [Diferencias divididas Centrales](https://github.com/AdrianAsen/Interpolacion/blob/main/FUNCIONES/DDcentrales.m)
+* [Diferencias divididas Progresivas](https://github.com/AdrianAsen/Interpolacion/blob/main/FUNCIONES/DDprogresivas.m)
+* [Diferencias divididas Regresivas](https://github.com/AdrianAsen/Interpolacion/blob/main/FUNCIONES/DDregresivas.m)
+* [Polinomio de Talor](https://github.com/AdrianAsen/Interpolacion/blob/main/FUNCIONES/Ptaylor.m)
+* [Polinomio de Lagrange](https://github.com/AdrianAsen/Interpolacion/blob/main/FUNCIONES/Plagrange.m)
+* [Método de Neville](https://github.com/AdrianAsen/Interpolacion/blob/main/FUNCIONES/Mneville.m)
 
 
 ## **Soporte** :interrobang:
