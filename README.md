@@ -10,12 +10,12 @@
  
 ## **Indice**
   
-  * [Descripción](https://github.com/AdrianAsen/Analisis-Numerico/blob/main/DOCS/Descripci%C3%B3n.md)
-  * [Visuales](https://github.com/AdrianAsen/Analisis-Numerico/blob/main/DOCS/Visuales.md)
-  * [Instalación](https://github.com/AdrianAsen/Analisis-Numerico/blob/main/DOCS/Instalaci%C3%B3n.md)
-  * [Uso](https://github.com/AdrianAsen/Analisis-Numerico/blob/main/DOCS/Uso.md)
-  * [Soporte](https://github.com/AdrianAsen/Analisis-Numerico/blob/main/DOCS/Soporte.md)
-  * [Autores y Agradecimientos](https://github.com/AdrianAsen/Analisis-Numerico/blob/main/DOCS/Autores.md)
+  * [Descripción](https://github.com/AdrianAsen/Interpolacion/blob/main/DOCS/Descripci%C3%B3n.md)
+  * [Visuales](https://github.com/AdrianAsen/Interpolacion/blob/main/DOCS/Visuales.md)
+  * [Instalación](https://github.com/AdrianAsen/Interpolacion/blob/main/DOCS/Instalaci%C3%B3n.md)
+  * [Uso](https://github.com/AdrianAsen/Interpolacion/blob/main/DOCS/Uso.md)
+  * [Soporte](https://github.com/AdrianAsen/Interpolacion/blob/main/DOCS/Soporte.md)
+  * [Autores y Agradecimientos](https://github.com/AdrianAsen/Interpolacion/blob/main/DOCS/Autores.md)
   
 ## **Descripción** :page_with_curl:
 
