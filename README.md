@@ -5,8 +5,6 @@
 <p align="center">
   <a href="/DOCS/README_en.md">English </a>
 
-  <p align="center">
-  <a href="/DOCS/README_fr.md">Français </a>
 
 
  
