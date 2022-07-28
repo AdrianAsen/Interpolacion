@@ -7,12 +7,12 @@
 
 ## **Index**
   
-  * [Descripción](https://github.com/AdrianAsen/Analisis-Numerico/blob/main/DOCS/Descripci%C3%B3n.md)
-  * [Visuales](https://github.com/AdrianAsen/Analisis-Numerico/blob/main/DOCS/Visuales.md)
-  * [Instalación](https://github.com/AdrianAsen/Analisis-Numerico/blob/main/DOCS/Instalaci%C3%B3n.md)
-  * [Uso](https://github.com/AdrianAsen/Analisis-Numerico/blob/main/DOCS/Uso.md)
-  * [Soporte](https://github.com/AdrianAsen/Analisis-Numerico/blob/main/DOCS/Soporte.md)
-  * [Autores y Agradecimientos](https://github.com/AdrianAsen/Analisis-Numerico/blob/main/DOCS/Autores.md)
+  * [Description](https://github.com/AdrianAsen/Analisis-Numerico/blob/main/DOCS/Descripci%C3%B3n.md)
+  * [Visuals](https://github.com/AdrianAsen/Analisis-Numerico/blob/main/DOCS/Visuales.md)
+  * [Installation](https://github.com/AdrianAsen/Analisis-Numerico/blob/main/DOCS/Instalaci%C3%B3n.md)
+  * [Use](https://github.com/AdrianAsen/Analisis-Numerico/blob/main/DOCS/Uso.md)
+  * [Suport](https://github.com/AdrianAsen/Analisis-Numerico/blob/main/DOCS/Soporte.md)
+  * [Authors and Gratefulness](https://github.com/AdrianAsen/Analisis-Numerico/blob/main/DOCS/Autores.md)
   
 ## **Description** :page_with_curl:
 
@@ -35,7 +35,7 @@ The interpolation methods that have been carried out in this project have been t
 
 ## **Installation** :computer:
 
-For the elaboration of the  interpolation adn polynomial approximation methods before talked, it has been necessary to use MatLab, which offers us an integrated development with its own programming language. To download this software you can click [*here* ](https://es.mathworks.com/products/get-matlab.html?s_tid=gn_getml "Link Matlab").
+For the elaboration of the  interpolation and polynomial approximation methods before talked, it has been necessary to use MatLab, which offers us an integrated development with its own programming language. To download this software you can click [*here* ](https://es.mathworks.com/products/get-matlab.html?s_tid=gn_getml "Link Matlab").
 
 Some of the functions that have been used on the codes were the followings ones: 
 * The function `inline` is used to construct an inline function object from the expression.
