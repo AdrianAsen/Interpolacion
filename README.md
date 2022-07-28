@@ -64,7 +64,7 @@ disp('El procedimiento fue correcto');
 ## **Uso**
 
 Para el correcto uso del proyecto se tendrá que abrir a la vez 
-* [biseccion.m](https://github.com/AdrianAsen/Analisis-Numerico/blob/main/Funciones/biseccion.m)
+* [Diferencias divididas de Newton](https://github.com/AdrianAsen/Interpolacion/blob/main/FUNCIONES/DDnewton.m)
 * [newton.m](https://github.com/AdrianAsen/Analisis-Numerico/blob/main/Funciones/newton.m)
 * [secante.m](https://github.com/AdrianAsen/Analisis-Numerico/blob/main/Funciones/secante.m)
 * [fposicion.m](https://github.com/AdrianAsen/Analisis-Numerico/blob/main/Funciones/fposicion.m)
