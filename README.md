@@ -61,7 +61,10 @@ disp('El procedimiento fue correcto');
 
 ## **Uso**
 
-Para el correcto uso del proyecto se tendrá que abrir a la vez 
+Para el correcto uso del proyecto se tendrá que descargar todos los archivos de la carpeta [*Interfaz*](https://github.com/AdrianAsen/Interpolacion/tree/main/Interfaz).
+Posteriormente ya se podrá abrir el menú.
+  
+  
 * [Diferencias divididas de Newton](https://github.com/AdrianAsen/Interpolacion/blob/main/FUNCIONES/DDnewton.m)
 * [Diferencias divididas Centrales](https://github.com/AdrianAsen/Interpolacion/blob/main/FUNCIONES/DDcentrales.m)
 * [Diferencias divididas Progresivas](https://github.com/AdrianAsen/Interpolacion/blob/main/FUNCIONES/DDprogresivas.m)
