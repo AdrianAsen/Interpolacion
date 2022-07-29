@@ -62,7 +62,11 @@ disp('El procedimiento fue correcto');
 ## **Uso**
 
 Para el correcto uso del proyecto se tendrá que descargar todos los archivos de la carpeta [*Interfaz*](https://github.com/AdrianAsen/Interpolacion/tree/main/Interfaz).
-Posteriormente ya se podrá abrir el menú.
+Posteriormente en la command tool debera ingresar el siguiente comando.
+```matlab
+appdesigner
+```
+  
   
   
 * [Diferencias divididas de Newton](https://github.com/AdrianAsen/Interpolacion/blob/main/FUNCIONES/DDnewton.m)
