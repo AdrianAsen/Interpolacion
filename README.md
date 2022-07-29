@@ -34,6 +34,13 @@ Los métodos de interpolación  que se han realizado en este proyecto han sido l
 
 ## **Visuales e insignias** :tv:
   
+  
+  
+  
+  [![readme.png](https://i.postimg.cc/J43S6G18/readme.png)](https://postimg.cc/2V6H3jb9)
+  
+  
+  
 
 
 ## **Instalación** :computer:
